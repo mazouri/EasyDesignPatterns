@@ -1,11 +1,11 @@
 # EasyDesignPatterns
 
-#Android源码设计模式解析与实战
+# Android源码设计模式解析与实战
 <Android Source Design Patterns Analysis and practice>
 
 以ImageLoader入手
 
-##创建型模式
+## 创建型模式
 1.[单例](https://github.com/mazouri/EasyDesignPatterns/blob/master/Creational-patterns/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 
 2.[builder](https://github.com/mazouri/EasyDesignPatterns/blob/master/Creational-patterns/builder%E6%A8%A1%E5%BC%8F.md)
@@ -16,7 +16,7 @@
 
 5.[抽象工厂](https://github.com/mazouri/EasyDesignPatterns/blob/master/Creational-patterns/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
 
-##行为型模式
+## 行为型模式
 
 6.[策略](https://github.com/mazouri/EasyDesignPatterns/blob/master/Behavioral-patterns/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
 
@@ -40,7 +40,7 @@
 
 16.[中介者](https://github.com/mazouri/EasyDesignPatterns/blob/master/Behavioral-patterns/%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
-##结构型模式
+## 结构型模式
 
 17.[代理](https://github.com/mazouri/EasyDesignPatterns/blob/master/Structural-patterns/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
 
@@ -56,7 +56,7 @@
 
 23.[桥接](https://github.com/mazouri/EasyDesignPatterns/blob/master/Structural-patterns/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md)
 
-##App架构模式
+## App架构模式
 
 [MVC]()
 
