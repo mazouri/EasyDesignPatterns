@@ -1,4 +1,4 @@
-package behavioral.singleton;
+package creational.singleton;
 
 /**
  * 饿汉单例模式

@@ -1,4 +1,4 @@
-package behavioral.singleton;
+package creational.singleton;
 
 /**
  * Created by wangdongdong on 17/7/12.

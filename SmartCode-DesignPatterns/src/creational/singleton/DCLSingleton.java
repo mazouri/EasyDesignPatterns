@@ -1,4 +1,4 @@
-package behavioral.singleton;
+package creational.singleton;
 
 /**
  *
